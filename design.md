@@ -1,6 +1,6 @@
 Made by: @Vibhu \
 Repository link: https://github.com/vibsthebot/pixl \
-Total hours so far: 4
+Total hours so far: 6
 - [x] I have a 3D printer or will be getting one before March 21st
 
 ---
@@ -24,3 +24,7 @@ Finished electronics portion so far
 
 ## Day Two
 Finished bom (im a little over budget but thats without any aliexpress discounts)
+
+## Day Three
+Started my design for the toolhead of my printer \
+Combined sherpa mini and e3d v6 clone (will upload image but cdn down)
