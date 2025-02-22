@@ -42,3 +42,13 @@ Added linear rail mounting
 ### Hours: 3
 Changed linear rail mounting direction and added both part and heatsink fan mounting
 ![image](https://cdn.hack.pet/slackcdn/3c58b1215ecb8b35d9f282c385179af5.png)
+
+## Days Six and Seven
+### Hours: 3
+Took a break from toolhead and added the x axis design
+![image](https://cloud-4ud0zrtd2-hack-club-bot.vercel.app/0image.png)
+
+## Day Eight
+### Hours: 2
+Started working on the y axis
+![image](https://cloud-n1y41ux1c-hack-club-bot.vercel.app/0image.png)
